@@ -73,7 +73,7 @@ If the language you want to use is not shown, change the language selector at th
 
 ## Run the app
 
-1. Press <kbd>Shift</kbd>+<kbd>F5</kbd> to run the program without debugging.
+1. Press <kbd>Ctrl</kbd>+<kbd>F5</kbd> to run the program without debugging.
 
    A console window opens with the text "Hello World!" printed on the screen and some Visual Studio debug information.
 
